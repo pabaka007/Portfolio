@@ -2,7 +2,7 @@
 
 Personal portfolio of **Pabaka Arjyama Senapati**, QA Automation Engineer (Java · Selenium · TestNG).
 
-**Live site:** https://pabaka007.github.io
+**Live site:** https://pabaka007.github.io/Portfolio/
 
 ## About
 QA Automation Engineer at Quick Heal Technologies, automating Seqrite enterprise security products on web and Windows desktop with Java, Selenium/Selenide, TestNG and the Page Object Model.
